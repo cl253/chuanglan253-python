@@ -5,4 +5,4 @@ chuanglan-demo-python
 打开sms.py文件里面
 host填写：域名 例：smssh1.253.com
 填写账号密码保存运行即可
-对接过程如遇到相关问题没有解决,欢迎咨询:www.253.com
+对接中出现问题 欢迎咨询:www.253.com
