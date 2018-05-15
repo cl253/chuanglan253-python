@@ -1,8 +1,6 @@
-chuanglan
+# chuanglan
 
-chuanglan-demo-python
-
-----------------------------------------------发送短信接入流程：--------------------------------------------------
+# chuanglan-demo-python
 
 1.登录 https://zz.253.com
 
