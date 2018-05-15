@@ -10,8 +10,9 @@
 
 - host填写：域名 例：smssh1.253.com
 
-## 代码参数填写说明
-、、、
+## python代码参数填写说明
+
+```
 import httplib
 import urllib
 import json
@@ -33,9 +34,8 @@ version = "v1.1"
 balance_get_uri = "/msg/balance/json"
 
 #普通短信发送的URL
-sms_send_uri = "/msg/send/json"
-、、、
-
+sms_send_uri = "/msg/send/json" 
+```
 ## 源码说明 
 
 - 编码要求为utf-8,请先将编辑器底层语言设置为utf-8
