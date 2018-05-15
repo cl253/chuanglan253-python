@@ -2,6 +2,8 @@
 
 **chuanglan-demo-python**
 
+## 使用说明
+
 - 下载python2.x版本，本demo仅支持python2.x版本
 
 - 打开sms.py文件里面
